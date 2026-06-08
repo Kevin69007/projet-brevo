@@ -1,0 +1,406 @@
+2026-05-07 14:56:43,662 [INFO] run — ============================================================
+2026-05-07 14:56:43,662 [INFO] run — Démarrage parser DMARC — 2026-05-07T12:56:43.662432Z
+2026-05-07 14:56:43,662 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-07 14:56:43,662 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-07 14:56:43,665 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-07 14:56:43,665 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-07 14:56:43,665 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-07 14:56:44,246 [INFO] fetch — dmarc@cuspide.fr: 1 messages dans INBOX
+2026-05-07 14:56:44,603 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-07 14:56:45,123 [INFO] fetch — dmarc@kelaj-company.com: 1 messages dans INBOX
+2026-05-07 14:56:45,397 [INFO] run — Stats parse : reçus=0, insérés=0, doublons=0, erreurs=0
+2026-05-07 14:56:45,397 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-07 14:56:45,403 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-07.md
+2026-05-07 14:56:45,403 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-07.md
+2026-05-07 14:56:45,403 [INFO] run — Ouverture (TextEdit) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-07 14:56:45,410 [INFO] run — Fin parser DMARC ✅
+2026-05-07 14:56:45,411 [INFO] run — ============================================================
+2026-05-07 14:58:02,414 [INFO] run — ============================================================
+2026-05-07 14:58:02,414 [INFO] run — Démarrage parser DMARC — 2026-05-07T12:58:02.414551Z
+2026-05-07 14:58:02,414 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-07 14:58:02,414 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-07 14:58:02,416 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-07 14:58:02,416 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-07 14:58:02,417 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-07 14:58:02,974 [INFO] fetch — dmarc@cuspide.fr: 1 messages dans INBOX
+2026-05-07 14:58:03,289 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-07 14:58:03,741 [INFO] fetch — dmarc@kelaj-company.com: 1 messages dans INBOX
+2026-05-07 14:58:04,129 [INFO] run — Stats parse : reçus=0, insérés=0, doublons=0, erreurs=0
+2026-05-07 14:58:04,130 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-07 14:58:04,136 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-07.md
+2026-05-07 14:58:04,137 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-07.md
+2026-05-07 14:58:04,137 [INFO] run — Ouverture (TextEdit) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-07 14:58:04,142 [INFO] run — Fin parser DMARC ✅
+2026-05-07 14:58:04,142 [INFO] run — ============================================================
+2026-05-07 15:00:23,934 [INFO] run — ============================================================
+2026-05-07 15:00:23,934 [INFO] run — Démarrage parser DMARC — 2026-05-07T13:00:23.934465Z
+2026-05-07 15:00:23,934 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-07 15:00:23,934 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-07 15:00:23,936 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-07 15:00:23,936 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-07 15:00:23,936 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-07 15:00:24,528 [INFO] fetch — dmarc@cuspide.fr: 1 messages dans INBOX
+2026-05-07 15:00:24,854 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-07 15:00:25,300 [INFO] fetch — dmarc@kelaj-company.com: 1 messages dans INBOX
+2026-05-07 15:00:25,577 [INFO] run — Stats parse : reçus=0, insérés=0, doublons=0, erreurs=0
+2026-05-07 15:00:25,578 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-07 15:00:25,583 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-07.md
+2026-05-07 15:00:25,583 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-07.md
+2026-05-07 15:00:25,583 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-07 15:00:26,202 [INFO] run — Fin parser DMARC ✅
+2026-05-07 15:00:26,203 [INFO] run — ============================================================
+2026-05-08 10:11:46,495 [INFO] run — ============================================================
+2026-05-08 10:11:46,495 [INFO] run — Démarrage parser DMARC — 2026-05-08T08:11:46.495816Z
+2026-05-08 10:11:46,495 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-08 10:11:46,495 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-08 10:11:46,498 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-08 10:11:46,498 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-08 10:11:46,498 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-08 10:11:48,040 [INFO] fetch — dmarc@cuspide.fr: 1 messages dans INBOX
+2026-05-08 10:11:48,339 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-08 10:11:48,767 [INFO] fetch — dmarc@kelaj-company.com: 1 messages dans INBOX
+2026-05-08 10:11:49,044 [INFO] run — Stats parse : reçus=0, insérés=0, doublons=0, erreurs=0
+2026-05-08 10:11:49,044 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-08 10:11:49,055 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-08.md
+2026-05-08 10:11:49,056 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-08.md
+2026-05-08 10:11:49,056 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-08 10:13:03,497 [INFO] run — Fin parser DMARC ✅
+2026-05-08 10:13:03,497 [INFO] run — ============================================================
+2026-05-09 10:00:36,392 [INFO] run — ============================================================
+2026-05-09 10:00:36,392 [INFO] run — Démarrage parser DMARC — 2026-05-09T08:00:36.392359Z
+2026-05-09 10:00:36,392 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-09 10:00:36,392 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-09 10:00:36,393 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-09 10:00:36,393 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-09 10:00:36,393 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-09 10:00:37,008 [INFO] fetch — dmarc@cuspide.fr: 4 messages dans INBOX
+2026-05-09 10:00:37,853 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-09 10:00:38,339 [INFO] fetch — dmarc@kelaj-company.com: 1 messages dans INBOX
+2026-05-09 10:00:38,652 [INFO] run — Stats parse : reçus=3, insérés=3, doublons=0, erreurs=0
+2026-05-09 10:00:38,652 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-09 10:00:38,660 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-09.md
+2026-05-09 10:00:38,661 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-09.md
+2026-05-09 10:00:38,661 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-09 10:00:40,912 [INFO] run — Fin parser DMARC ✅
+2026-05-09 10:00:40,912 [INFO] run — ============================================================
+2026-05-12 10:00:05,361 [INFO] run — ============================================================
+2026-05-12 10:00:05,361 [INFO] run — Démarrage parser DMARC — 2026-05-12T08:00:05.361925Z
+2026-05-12 10:00:05,361 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-12 10:00:05,361 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-12 10:00:05,366 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-12 10:00:05,366 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-12 10:00:05,366 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-12 10:00:05,883 [INFO] fetch — dmarc@cuspide.fr: 18 messages dans INBOX
+2026-05-12 10:00:09,830 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-12 10:00:10,259 [INFO] fetch — dmarc@kelaj-company.com: 13 messages dans INBOX
+2026-05-12 10:00:12,986 [INFO] run — Stats parse : reçus=29, insérés=22, doublons=7, erreurs=0
+2026-05-12 10:00:12,986 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-12 10:00:12,991 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-12.md
+2026-05-12 10:00:12,991 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-12.md
+2026-05-12 10:00:12,991 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-12 10:00:13,193 [INFO] run — Fin parser DMARC ✅
+2026-05-12 10:00:13,193 [INFO] run — ============================================================
+2026-05-13 10:00:05,329 [INFO] run — ============================================================
+2026-05-13 10:00:05,329 [INFO] run — Démarrage parser DMARC — 2026-05-13T08:00:05.329495Z
+2026-05-13 10:00:05,329 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-13 10:00:05,329 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-13 10:00:05,332 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-13 10:00:05,332 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-13 10:00:05,332 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-13 10:00:05,829 [INFO] fetch — dmarc@cuspide.fr: 10 messages dans INBOX
+2026-05-13 10:00:07,725 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-13 10:00:08,173 [INFO] fetch — dmarc@kelaj-company.com: 8 messages dans INBOX
+2026-05-13 10:00:09,669 [INFO] run — Stats parse : reçus=16, insérés=6, doublons=10, erreurs=0
+2026-05-13 10:00:09,669 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-13 10:00:09,678 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-13.md
+2026-05-13 10:00:09,678 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-13.md
+2026-05-13 10:00:09,678 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-13 10:00:12,075 [INFO] run — Fin parser DMARC ✅
+2026-05-13 10:00:12,075 [INFO] run — ============================================================
+2026-05-14 10:09:03,387 [INFO] run — ============================================================
+2026-05-14 10:09:03,387 [INFO] run — Démarrage parser DMARC — 2026-05-14T08:09:03.387727Z
+2026-05-14 10:09:03,387 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-14 10:09:03,387 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-14 10:09:03,390 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-14 10:09:03,390 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-14 10:09:03,390 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-14 10:09:03,887 [INFO] fetch — dmarc@cuspide.fr: 9 messages dans INBOX
+2026-05-14 10:09:05,793 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-14 10:09:06,233 [INFO] fetch — dmarc@kelaj-company.com: 3 messages dans INBOX
+2026-05-14 10:09:06,952 [INFO] run — Stats parse : reçus=10, insérés=7, doublons=3, erreurs=0
+2026-05-14 10:09:06,953 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-14 10:09:06,964 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-14.md
+2026-05-14 10:09:06,965 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-14.md
+2026-05-14 10:09:06,965 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-14 10:09:09,266 [INFO] run — Fin parser DMARC ✅
+2026-05-14 10:09:09,266 [INFO] run — ============================================================
+2026-05-15 10:09:00,164 [INFO] run — ============================================================
+2026-05-15 10:09:00,164 [INFO] run — Démarrage parser DMARC — 2026-05-15T08:09:00.164653Z
+2026-05-15 10:09:00,164 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-15 10:09:00,164 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-15 10:09:00,166 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-15 10:09:00,166 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-15 10:09:00,166 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-15 10:09:01,714 [INFO] fetch — dmarc@cuspide.fr: 11 messages dans INBOX
+2026-05-15 10:09:03,679 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-15 10:09:04,121 [INFO] fetch — dmarc@kelaj-company.com: 4 messages dans INBOX
+2026-05-15 10:09:04,888 [INFO] run — Stats parse : reçus=13, insérés=9, doublons=4, erreurs=0
+2026-05-15 10:09:04,889 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-15 10:09:04,904 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-15.md
+2026-05-15 10:09:04,904 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-15.md
+2026-05-15 10:09:04,904 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-15 10:12:56,226 [INFO] run — Fin parser DMARC ✅
+2026-05-15 10:12:56,227 [INFO] run — ============================================================
+2026-05-16 10:12:42,902 [INFO] run — ============================================================
+2026-05-16 10:12:42,902 [INFO] run — Démarrage parser DMARC — 2026-05-16T08:12:42.902894Z
+2026-05-16 10:12:42,902 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-16 10:12:42,902 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-16 10:12:42,904 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-16 10:12:42,904 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-16 10:12:42,904 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-18 12:41:11,025 [INFO] run — ============================================================
+2026-05-18 12:41:11,026 [INFO] run — Démarrage parser DMARC — 2026-05-18T10:41:11.026424Z
+2026-05-18 12:41:11,026 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-18 12:41:11,026 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-18 12:41:11,029 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-18 12:41:11,029 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-18 12:41:11,029 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-18 12:41:11,509 [INFO] fetch — dmarc@cuspide.fr: 2 messages dans INBOX
+2026-05-18 12:41:11,968 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-18 12:41:12,398 [INFO] fetch — dmarc@kelaj-company.com: 1 messages dans INBOX
+2026-05-18 12:41:12,672 [INFO] run — Stats parse : reçus=1, insérés=1, doublons=0, erreurs=0
+2026-05-18 12:41:12,673 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-18 12:41:12,680 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-18.md
+2026-05-18 12:41:12,680 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-18.md
+2026-05-18 12:41:12,680 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-18 12:41:12,917 [INFO] run — Fin parser DMARC ✅
+2026-05-18 12:41:12,917 [INFO] run — ============================================================
+2026-05-19 10:00:03,348 [INFO] run — ============================================================
+2026-05-19 10:00:03,348 [INFO] run — Démarrage parser DMARC — 2026-05-19T08:00:03.348937Z
+2026-05-19 10:00:03,349 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-19 10:00:03,349 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-19 10:00:03,351 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-19 10:00:03,351 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-19 10:00:03,351 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-19 10:00:03,862 [INFO] fetch — dmarc@cuspide.fr: 3 messages dans INBOX
+2026-05-19 10:00:05,048 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-19 10:00:05,484 [INFO] fetch — dmarc@kelaj-company.com: 5 messages dans INBOX
+2026-05-19 10:00:06,381 [INFO] run — Stats parse : reçus=6, insérés=4, doublons=2, erreurs=0
+2026-05-19 10:00:06,381 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-19 10:00:06,390 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-19.md
+2026-05-19 10:00:06,391 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-19.md
+2026-05-19 10:00:06,391 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-19 10:00:06,898 [INFO] run — Fin parser DMARC ✅
+2026-05-19 10:00:06,898 [INFO] run — ============================================================
+2026-05-20 10:00:05,626 [INFO] run — ============================================================
+2026-05-20 10:00:05,626 [INFO] run — Démarrage parser DMARC — 2026-05-20T08:00:05.626669Z
+2026-05-20 10:00:05,626 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-20 10:00:05,626 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-20 10:00:05,630 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-20 10:00:05,630 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-20 10:00:05,630 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-20 10:00:06,212 [INFO] fetch — dmarc@cuspide.fr: 7 messages dans INBOX
+2026-05-20 10:00:07,578 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-20 10:00:08,023 [INFO] fetch — dmarc@kelaj-company.com: 3 messages dans INBOX
+2026-05-20 10:00:08,721 [INFO] run — Stats parse : reçus=8, insérés=5, doublons=3, erreurs=0
+2026-05-20 10:00:08,721 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-20 10:00:08,734 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-20.md
+2026-05-20 10:00:08,735 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-20.md
+2026-05-20 10:00:08,735 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-20 10:00:09,175 [INFO] run — Fin parser DMARC ✅
+2026-05-20 10:00:09,176 [INFO] run — ============================================================
+2026-05-21 10:00:05,565 [INFO] run — ============================================================
+2026-05-21 10:00:05,565 [INFO] run — Démarrage parser DMARC — 2026-05-21T08:00:05.565530Z
+2026-05-21 10:00:05,565 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-21 10:00:05,565 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-21 10:00:05,569 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-21 10:00:05,569 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-21 10:00:05,569 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-21 10:00:06,121 [INFO] fetch — dmarc@cuspide.fr: 10 messages dans INBOX
+2026-05-21 10:00:08,055 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-21 10:00:08,505 [INFO] fetch — dmarc@kelaj-company.com: 7 messages dans INBOX
+2026-05-21 10:00:09,901 [INFO] run — Stats parse : reçus=15, insérés=7, doublons=8, erreurs=0
+2026-05-21 10:00:09,902 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-21 10:00:09,911 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-21.md
+2026-05-21 10:00:09,912 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-21.md
+2026-05-21 10:00:09,912 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-21 10:00:10,516 [INFO] run — Fin parser DMARC ✅
+2026-05-21 10:00:10,516 [INFO] run — ============================================================
+2026-05-22 10:05:09,193 [INFO] run — ============================================================
+2026-05-22 10:05:09,193 [INFO] run — Démarrage parser DMARC — 2026-05-22T08:05:09.193911Z
+2026-05-22 10:05:09,194 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-22 10:05:09,194 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-22 10:05:09,203 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-22 10:05:09,204 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-22 10:05:09,204 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-22 10:05:09,777 [INFO] fetch — dmarc@cuspide.fr: 8 messages dans INBOX
+2026-05-22 10:05:11,322 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-22 10:05:11,778 [INFO] fetch — dmarc@kelaj-company.com: 4 messages dans INBOX
+2026-05-22 10:05:12,577 [INFO] run — Stats parse : reçus=10, insérés=7, doublons=3, erreurs=0
+2026-05-22 10:05:12,578 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-22 10:05:12,597 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-22.md
+2026-05-22 10:05:12,597 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-22.md
+2026-05-22 10:05:12,598 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-22 10:19:45,422 [INFO] run — Fin parser DMARC ✅
+2026-05-22 10:19:45,423 [INFO] run — ============================================================
+2026-05-23 10:01:29,524 [INFO] run — ============================================================
+2026-05-23 10:01:29,524 [INFO] run — Démarrage parser DMARC — 2026-05-23T08:01:29.524665Z
+2026-05-23 10:01:29,524 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-23 10:01:29,524 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-23 10:01:29,531 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-23 10:01:29,531 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-23 10:01:29,531 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-23 10:01:31,079 [INFO] fetch — dmarc@cuspide.fr: 6 messages dans INBOX
+2026-05-23 10:01:32,223 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-23 10:01:32,679 [INFO] fetch — dmarc@kelaj-company.com: 7 messages dans INBOX
+2026-05-23 10:01:34,019 [INFO] run — Stats parse : reçus=11, insérés=9, doublons=2, erreurs=0
+2026-05-23 10:01:34,020 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-23 10:01:34,039 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-23.md
+2026-05-23 10:01:34,039 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-23.md
+2026-05-23 10:01:34,039 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-23 10:01:36,554 [INFO] run — Fin parser DMARC ✅
+2026-05-23 10:01:36,554 [INFO] run — ============================================================
+2026-05-26 10:00:05,605 [INFO] run — ============================================================
+2026-05-26 10:00:05,606 [INFO] run — Démarrage parser DMARC — 2026-05-26T08:00:05.605991Z
+2026-05-26 10:00:05,606 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-26 10:00:05,606 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-26 10:00:05,613 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-26 10:00:05,613 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-26 10:00:05,613 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-26 10:00:06,384 [INFO] fetch — dmarc@cuspide.fr: 17 messages dans INBOX
+2026-05-26 10:00:10,322 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-26 10:00:10,905 [INFO] fetch — dmarc@kelaj-company.com: 14 messages dans INBOX
+2026-05-26 10:00:14,113 [INFO] run — Stats parse : reçus=29, insérés=24, doublons=5, erreurs=0
+2026-05-26 10:00:14,114 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-26 10:00:14,123 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-26.md
+2026-05-26 10:00:14,123 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-26.md
+2026-05-26 10:00:14,124 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-26 10:00:14,966 [INFO] run — Fin parser DMARC ✅
+2026-05-26 10:00:14,967 [INFO] run — ============================================================
+2026-05-27 10:00:05,616 [INFO] run — ============================================================
+2026-05-27 10:00:05,617 [INFO] run — Démarrage parser DMARC — 2026-05-27T08:00:05.617385Z
+2026-05-27 10:00:05,617 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-27 10:00:05,617 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-27 10:00:05,621 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-27 10:00:05,621 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-27 10:00:05,621 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-27 10:00:06,353 [INFO] fetch — dmarc@cuspide.fr: 8 messages dans INBOX
+2026-05-27 10:00:08,421 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-27 10:00:09,057 [INFO] fetch — dmarc@kelaj-company.com: 9 messages dans INBOX
+2026-05-27 10:00:11,274 [INFO] run — Stats parse : reçus=15, insérés=8, doublons=7, erreurs=0
+2026-05-27 10:00:11,276 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-27 10:00:11,288 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-27.md
+2026-05-27 10:00:11,288 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-27.md
+2026-05-27 10:00:11,288 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-27 10:00:12,052 [INFO] run — Fin parser DMARC ✅
+2026-05-27 10:00:12,053 [INFO] run — ============================================================
+2026-05-28 10:00:05,772 [INFO] run — ============================================================
+2026-05-28 10:00:05,772 [INFO] run — Démarrage parser DMARC — 2026-05-28T08:00:05.772963Z
+2026-05-28 10:00:05,773 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-28 10:00:05,773 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-28 10:00:05,780 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-28 10:00:05,780 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-28 10:00:05,780 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-28 10:00:06,349 [INFO] fetch — dmarc@cuspide.fr: 12 messages dans INBOX
+2026-05-28 10:00:09,018 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-28 10:00:09,442 [INFO] fetch — dmarc@kelaj-company.com: 6 messages dans INBOX
+2026-05-28 10:00:10,530 [INFO] run — Stats parse : reçus=16, insérés=9, doublons=7, erreurs=0
+2026-05-28 10:00:10,530 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-28 10:00:10,572 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-28.md
+2026-05-28 10:00:10,572 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-28.md
+2026-05-28 10:00:10,572 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-28 10:00:11,704 [INFO] run — Fin parser DMARC ✅
+2026-05-28 10:00:11,706 [INFO] run — ============================================================
+2026-05-29 10:00:05,955 [INFO] run — ============================================================
+2026-05-29 10:00:05,955 [INFO] run — Démarrage parser DMARC — 2026-05-29T08:00:05.955854Z
+2026-05-29 10:00:05,955 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-29 10:00:05,956 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-29 10:00:05,960 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-29 10:00:05,960 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-29 10:00:05,961 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-29 10:00:06,550 [INFO] fetch — dmarc@cuspide.fr: 9 messages dans INBOX
+2026-05-29 10:00:08,314 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-29 10:00:08,788 [INFO] fetch — dmarc@kelaj-company.com: 4 messages dans INBOX
+2026-05-29 10:00:09,603 [INFO] run — Stats parse : reçus=11, insérés=8, doublons=3, erreurs=0
+2026-05-29 10:00:09,604 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-29 10:00:09,619 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-29.md
+2026-05-29 10:00:09,619 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-29.md
+2026-05-29 10:00:09,619 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-29 10:00:10,672 [INFO] run — Fin parser DMARC ✅
+2026-05-29 10:00:10,672 [INFO] run — ============================================================
+2026-05-30 10:10:35,358 [INFO] run — ============================================================
+2026-05-30 10:10:35,369 [INFO] run — Démarrage parser DMARC — 2026-05-30T08:10:35.369488Z
+2026-05-30 10:10:35,369 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-30 10:10:35,369 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-30 10:10:35,377 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-30 10:10:35,377 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-30 10:10:35,378 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-30 10:10:35,938 [INFO] fetch — dmarc@cuspide.fr: 10 messages dans INBOX
+2026-05-30 10:10:37,996 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-30 10:10:38,453 [INFO] fetch — dmarc@kelaj-company.com: 5 messages dans INBOX
+2026-05-30 10:10:39,378 [INFO] run — Stats parse : reçus=13, insérés=9, doublons=4, erreurs=0
+2026-05-30 10:10:39,381 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-30 10:10:39,397 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-30.md
+2026-05-30 10:10:39,398 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-30.md
+2026-05-30 10:10:39,398 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-30 10:18:41,093 [INFO] run — Fin parser DMARC ✅
+2026-05-30 10:18:41,094 [INFO] run — ============================================================
+2026-06-02 10:00:05,878 [INFO] run — ============================================================
+2026-06-02 10:00:05,886 [INFO] run — Démarrage parser DMARC — 2026-06-02T08:00:05.886107Z
+2026-06-02 10:00:05,886 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-06-02 10:00:05,886 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-06-02 10:00:05,890 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-06-02 10:00:05,890 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-06-02 10:00:05,890 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-06-02 10:00:06,439 [INFO] fetch — dmarc@cuspide.fr: 19 messages dans INBOX
+2026-06-02 10:00:09,979 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-06-02 10:00:10,533 [INFO] fetch — dmarc@kelaj-company.com: 11 messages dans INBOX
+2026-06-02 10:00:12,622 [INFO] run — Stats parse : reçus=28, insérés=26, doublons=2, erreurs=0
+2026-06-02 10:00:12,623 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-06-02 10:00:12,640 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-06-02.md
+2026-06-02 10:00:12,641 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-06-02.md
+2026-06-02 10:00:12,641 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-06-02 10:00:13,938 [INFO] run — Fin parser DMARC ✅
+2026-06-02 10:00:13,938 [INFO] run — ============================================================
+2026-06-03 10:00:06,578 [INFO] run — ============================================================
+2026-06-03 10:00:06,579 [INFO] run — Démarrage parser DMARC — 2026-06-03T08:00:06.579261Z
+2026-06-03 10:00:06,579 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-06-03 10:00:06,579 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-06-03 10:00:06,585 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-06-03 10:00:06,585 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-06-03 10:00:06,585 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-06-03 10:00:07,286 [INFO] fetch — dmarc@cuspide.fr: 6 messages dans INBOX
+2026-06-03 10:00:08,829 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-06-03 10:00:09,371 [INFO] fetch — dmarc@kelaj-company.com: 5 messages dans INBOX
+2026-06-03 10:00:10,518 [INFO] run — Stats parse : reçus=9, insérés=9, doublons=0, erreurs=0
+2026-06-03 10:00:10,518 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-06-03 10:00:10,538 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-06-03.md
+2026-06-03 10:00:10,538 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-06-03.md
+2026-06-03 10:00:10,538 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-06-03 10:00:12,037 [INFO] run — Fin parser DMARC ✅
+2026-06-03 10:00:12,041 [INFO] run — ============================================================
+2026-06-04 10:00:05,907 [INFO] run — ============================================================
+2026-06-04 10:00:05,907 [INFO] run — Démarrage parser DMARC — 2026-06-04T08:00:05.907939Z
+2026-06-04 10:00:05,908 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-06-04 10:00:05,908 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-06-04 10:00:05,911 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-06-04 10:00:05,911 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-06-04 10:00:05,911 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-06-04 10:00:06,682 [INFO] fetch — dmarc@cuspide.fr: 8 messages dans INBOX
+2026-06-04 10:00:09,103 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-06-04 10:00:09,591 [INFO] fetch — dmarc@kelaj-company.com: 3 messages dans INBOX
+2026-06-04 10:00:10,336 [INFO] run — Stats parse : reçus=9, insérés=7, doublons=2, erreurs=0
+2026-06-04 10:00:10,337 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-06-04 10:00:10,351 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-06-04.md
+2026-06-04 10:00:10,351 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-06-04.md
+2026-06-04 10:00:10,351 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-06-04 10:00:11,695 [INFO] run — Fin parser DMARC ✅
+2026-06-04 10:00:11,721 [INFO] run — ============================================================
+2026-06-05 10:06:57,318 [INFO] run — ============================================================
+2026-06-05 10:06:57,319 [INFO] run — Démarrage parser DMARC — 2026-06-05T08:06:57.319189Z
+2026-06-05 10:06:57,319 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-06-05 10:06:57,320 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-06-05 10:06:57,323 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-06-05 10:06:57,323 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-06-05 10:06:57,323 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-06-05 10:06:57,874 [INFO] fetch — dmarc@cuspide.fr: 22 messages dans INBOX

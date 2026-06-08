@@ -1,0 +1,7 @@
+2026-05-16 10:12:42,902 [INFO] run — ============================================================
+2026-05-16 10:12:42,902 [INFO] run — Démarrage parser DMARC — 2026-05-16T08:12:42.902894Z
+2026-05-16 10:12:42,902 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-16 10:12:42,902 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-16 10:12:42,904 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-16 10:12:42,904 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-16 10:12:42,904 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr

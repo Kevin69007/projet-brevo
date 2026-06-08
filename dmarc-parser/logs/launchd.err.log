@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "/Users/mo/projects/projet-brevo/dmarc-parser/run.py", line 112, in <module>
+    sys.exit(main())
+  File "/Users/mo/projects/projet-brevo/dmarc-parser/run.py", line 61, in main
+    stats = parse_batch(conn, xml_iter)
+  File "/Users/mo/projects/projet-brevo/dmarc-parser/parse.py", line 113, in parse_batch
+    for source_mailbox, fname, xml_bytes in xml_iter:
+  File "/Users/mo/projects/projet-brevo/dmarc-parser/fetch.py", line 148, in fetch_all
+    yield from fetch_mailbox(mb, dry_run=dry_run)
+  File "/Users/mo/projects/projet-brevo/dmarc-parser/fetch.py", line 94, in fetch_mailbox
+    imap = imaplib.IMAP4_SSL(IMAP_HOST, IMAP_PORT)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/imaplib.py", line 1324, in __init__
+    IMAP4.__init__(self, host, port, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/imaplib.py", line 202, in __init__
+    self.open(host, port, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/imaplib.py", line 1337, in open
+    IMAP4.open(self, host, port, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/imaplib.py", line 312, in open
+    self.sock = self._create_socket(timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/imaplib.py", line 1327, in _create_socket
+    sock = IMAP4._create_socket(self, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/imaplib.py", line 302, in _create_socket
+    return socket.create_connection(address)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socket.py", line 822, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known

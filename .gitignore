@@ -1,0 +1,5 @@
+brevo-secrets.env
+SECRETS.env.enc
+.DS_Store
+*.DS_Store
+dmarc-parser/dmarc-history.db

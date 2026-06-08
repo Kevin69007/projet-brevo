@@ -1,0 +1,17 @@
+2026-05-23 10:01:29,524 [INFO] run — ============================================================
+2026-05-23 10:01:29,524 [INFO] run — Démarrage parser DMARC — 2026-05-23T08:01:29.524665Z
+2026-05-23 10:01:29,524 [INFO] run — DB : /Users/mo/projects/projet-brevo/dmarc-parser/dmarc-history.db
+2026-05-23 10:01:29,524 [INFO] run — Rapports : /Users/mo/projects/projet-brevo/dmarc-parser/rapports
+2026-05-23 10:01:29,531 [INFO] run — Phase 1/3 — Fetch IMAP des nouveaux XML DMARC
+2026-05-23 10:01:29,531 [INFO] run — Phase 2/3 — Parse + insertion en DB
+2026-05-23 10:01:29,531 [INFO] fetch — IMAP: connexion à dmarc@cuspide.fr
+2026-05-23 10:01:31,079 [INFO] fetch — dmarc@cuspide.fr: 6 messages dans INBOX
+2026-05-23 10:01:32,223 [INFO] fetch — IMAP: connexion à dmarc@kelaj-company.com
+2026-05-23 10:01:32,679 [INFO] fetch — dmarc@kelaj-company.com: 7 messages dans INBOX
+2026-05-23 10:01:34,019 [INFO] run — Stats parse : reçus=11, insérés=9, doublons=2, erreurs=0
+2026-05-23 10:01:34,020 [INFO] run — Phase 3/3 — Génération rapports markdown
+2026-05-23 10:01:34,039 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-2026-05-23.md
+2026-05-23 10:01:34,039 [INFO] run —   → /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-30-derniers-jours-2026-05-23.md
+2026-05-23 10:01:34,039 [INFO] run — Ouverture (TextEdit + activate) : /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md
+2026-05-23 10:01:36,554 [INFO] run — Fin parser DMARC ✅
+2026-05-23 10:01:36,554 [INFO] run — ============================================================

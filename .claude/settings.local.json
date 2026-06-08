@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dig +short TXT _dmarc.news.cuspide.fr @8.8.8.8)",
+      "Bash(dig +short TXT _dmarc.cuspide.fr @8.8.8.8)",
+      "Bash(python3 -c \"import reportlab; print\\(reportlab.Version\\)\")",
+      "Bash(pip install *)",
+      "Bash(python3 -c \"import reportlab; print\\('OK', reportlab.Version\\)\")",
+      "Bash(python3 -m pip install --quiet --user reportlab)",
+      "Bash(python3 _build_recap_pdf.py)",
+      "Bash(python3 -m pip install --quiet --user pypdf)",
+      "Bash(python3 -c \"from pypdf import PdfReader; r=PdfReader\\('RECAP-phase1-phase2-cuspide.pdf'\\); print\\(f'Pages: {len\\(r.pages\\)}'\\); print\\('---p1---'\\); print\\(r.pages[0].extract_text\\(\\)\\); print\\('---p2---' if len\\(r.pages\\)>1 else ''\\); print\\(r.pages[1].extract_text\\(\\) if len\\(r.pages\\)>1 else ''\\)\")",
+      "Bash(dig +short CNAME s42582890._domainkey.pros.kelaj-company.com @8.8.8.8)",
+      "Bash(dig +short TXT _dmarc.pros.kelaj-company.com @8.8.8.8)",
+      "Bash(curl -s -L -m 10 -o /tmp/fdgl.html -w \"HTTP %{http_code} | %{url_effective} | content-type: %{content_type}\\\\n\" https://fdgl.fr)",
+      "Read(//tmp/**)",
+      "Bash(curl -s -L -m 10 -o /tmp/fdgl.html -w \"HTTP %{http_code} | %{url_effective}\\\\n\" http://fdgl.fr)",
+      "Bash(curl -s -L -m 10 -o /tmp/fdgl2.html -w \"HTTP %{http_code} | %{url_effective}\\\\n\" https://www.fdgl.fr)",
+      "Bash(python3 -c ' *)",
+      "Bash(launchctl start *)",
+      "Bash(launchctl list *)",
+      "Bash(open -a TextEdit /Users/mo/projects/projet-brevo/dmarc-parser/rapports/rapport-7-derniers-jours-LATEST.md)",
+      "Bash(echo \"open shell OK = retour $?\")",
+      "Bash(ls -la ~/.claude/projects/ | head -30)",
+      "Bash(python3 -c \"import sys, json; [print\\(json.dumps\\({k:v for k,v in json.loads\\(l\\).items\\(\\) if k in \\('type','timestamp','sessionId'\\)}, indent=2\\), json.loads\\(l\\).get\\('message',{}\\).get\\('usage'\\)\\) for l in sys.stdin]\")"
+    ]
+  }
+}
