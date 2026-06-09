@@ -47,11 +47,11 @@
 |---|---|---|---|
 | 0–3s | Brief du concours (texte ou voix) | *"Concours d'architecture. Brief : contemporain, bois, patrimoine."* | **Concours : contemporain + bois + patrimoine** |
 | 3–8s | Prompt Midjourney tapé à l'écran | *"Tu décris l'ambiance dans Midjourney."* | *"Architecture contemporaine, bois clair, réhabilitation patrimoine..."* |
-| 8–20s | Défilé rapide de 10 images (1 image / 1s) | *"5 minutes. 10 ambiances. Le jury en a retenu 3."* | **10 ambiances en 5 min** |
+| 8–20s | Défilé rapide de 10 images (1 image / 1s) | *"5 minutes. 10 ambiances. Pour approfondir 3 directions."* | **10 ambiances en 5 min** |
 | 20–28s | Zoom sur 3 images préférées | *"Sans modélisation. Sans rendu. Juste du prompt et du jugement."* | *"Zero modélisation préalable"* |
 | 28–35s | Image finale avec CTA | *"Apprends les bons prompts → formation en bio."* | **Formation IA Architectes — lien en bio** |
 
-**Règle skill** : On dit "le jury en a retenu 3" seulement si c'est un vrai retour d'expérience. Sinon : "pour approfondir".
+**Règle skill** : On ne dit pas "le jury en a retenu 3" sauf si c'est un vrai retour d'expérience. On reste sur "3 directions à approfondir".
 
 ---
 
@@ -102,11 +102,11 @@
 | 0–3s | Plan PDF ouvert à l'écran | *"Plan PDF. 45 min à recopier les surfaces à la main."* | **POV : recopiage manuel** |
 | 3–10s | Main qui tape le prompt dans Claude | *"Tu demandes à l'IA d'extraire les données."* | *"Analyse ce plan PDF et extrais : surfaces, emprise, hauteurs, ouvertures. Tableau structuré."* |
 | 10–20s | Réponse de l'IA : tableau structuré | *"30 secondes. Tableau complet."* | **30 sec** |
-| 20–30s | Zoom sur le tableau | *"Prêt pour le DPE, le permis, le CCTP. Zéro recopiage."* | *"Données prêtes : DPE, permis, CCTP"* |
+| 20–30s | Zoom sur le tableau | *"Base prête à vérifier pour le DPE, le permis, le CCTP."* | *"Base prête à vérifier"* |
 | 30–40s | Split avant/après : Excel vierge vs tableau généré | *"Ce qui me prenait 45 min, je le fais en quelques minutes."* | **Avant : 45 min → Après : quelques min** |
 | 40–50s | CTA | *"Apprends les bons prompts → formation en bio."* | **Formation IA Architectes — lien en bio** |
 
-**Règle skill** : On ne dit pas "100% exact". On dit "base prête à vérifier".
+**Règle skill** : On ne dit pas "données prêtes" ou "100% exact". On dit "base prête à vérifier".
 
 ---
 

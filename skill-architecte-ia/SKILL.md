@@ -135,6 +135,8 @@ Structure standard :
 - ❌ Affirmer une conformité PLU sans préciser qu'elle est à vérifier localement.
 - ❌ Promettre un gain de temps absolu (toujours relatif au cas).
 - ❌ Valider une checklist réglementaire comme définitive sans vérification terrain.
+- ❌ Affirmer un résultat de concours ou un retour tiers (ex. "le jury a retenu") sans que ce soit un vrai retour d'expérience documenté. On reste sur "directions à approfondir".
+- ❌ Présenter une sortie IA comme définitive sans mentionner la vérification. On évite "données prêtes", "100% exact", "résultat final". On utilise "base prête à vérifier" ou "première estimation à valider".
 
 ---
 
