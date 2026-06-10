@@ -1,8 +1,8 @@
-# Reels Kelaj — Formation IA Architectes (Série 01)
+# Reels Kelaj — Formation IA Architectes (Série 02)
 
 ---
 
-## 01. Les 2 types d'architectes
+## 11. Checklist permis
 
 **Format** : Vertical Instagram Reel, 15s
 
@@ -40,28 +40,27 @@ Consistent hairstyle across all scenes.
 Consistent glasses across all scenes.
 Consistent wardrobe style across all scenes.
 
-Split screen.
+Architect stressed in front of a tower of permit documents.
 
-LEFT SIDE:
-French woman architect, exhausted, surrounded by huge piles of plans, paperwork, emails, folders and sticky notes. The office is messy. She looks stressed and overwhelmed.
+The tower shakes dangerously.
 
-RIGHT SIDE:
-Exactly the same architect. Calm, confident, relaxed. Clean desk. Modern atmosphere. Digital architectural models and elegant blue holographic design elements floating around her.
+Suddenly the tower transforms into a neat checklist.
 
-Slow cinematic camera movement.
-Luxury commercial advertising aesthetic.
+Every box checks itself.
+
+She smiles.
 
 Text overlay:
 
-"DANS 2 ANS, IL Y AURA 2 TYPES D'ARCHITECTES"
+"MOINS D'OUBLIS"
 
 Pause.
 
-"CEUX QUI UTILISENT L'IA"
+"MOINS DE STRESS"
 
 Pause.
 
-"ET LES AUTRES"
+"PLUS DE CONTRÔLE"
 
 Final CTA:
 
@@ -83,7 +82,329 @@ Premium architecture education brand.
 
 ---
 
-## 02. Avant : 2 jours / Après : 20 min
+## 12. Les 3 outils
+
+**Format** : Vertical Instagram Reel, 15s
+
+Same character across all campaign videos.
+French female architect, 34 years old.
+
+Short blonde hair in a modern textured pixie cut.
+Natural dark blonde roots.
+Sharp jawline.
+Elegant oval face.
+Fair skin with natural complexion.
+Light freckles.
+Bright-green eyes.
+Thin modern black architectural glasses.
+Confident and intelligent expression.
+
+Height around 168 cm.
+Slim athletic build.
+Professional posture.
+
+Wardrobe:
+premium architect style,
+dark navy blue tailored blazer,
+off-white blouse,
+minimalist jewelry,
+Black rectangular designer glasses.
+
+Appearance inspired by contemporary European architects and creative directors.
+Professional, charismatic, trustworthy, modern and ambitious.
+
+Luxury architecture studio aesthetic.
+Photorealistic face.
+Consistent facial features across all scenes.
+Consistent hairstyle across all scenes.
+Consistent glasses across all scenes.
+Consistent wardrobe style across all scenes.
+
+Architect in the center.
+
+Three glowing portals appear around her.
+
+One represents writing.
+One represents images.
+One represents 3D design.
+
+She walks confidently through them.
+
+Text overlay:
+
+"3 OUTILS"
+
+Pause.
+
+"0 REMPLACEMENT"
+
+Pause.
+
+"JUSTE DU TEMPS GAGNÉ"
+
+Final CTA:
+
+"APPRENDS À TRAVAILLER AVEC L'IA"
+"LIEN EN BIO"
+
+Brand identity:
+night blue #0A0F1F
+charcoal black #0E0E12
+off-white #F2F2F0
+soft copper #C78A4A
+electric blue #1E6BFF
+
+Typography style:
+Big Shoulders Display Black.
+
+French language only.
+Premium architecture education brand.
+
+---
+
+## 13. CCTP express
+
+**Format** : Vertical Instagram Reel, 15s
+
+Same character across all campaign videos.
+French female architect, 34 years old.
+
+Short blonde hair in a modern textured pixie cut.
+Natural dark blonde roots.
+Sharp jawline.
+Elegant oval face.
+Fair skin with natural complexion.
+Light freckles.
+Bright-green eyes.
+Thin modern black architectural glasses.
+Confident and intelligent expression.
+
+Height around 168 cm.
+Slim athletic build.
+Professional posture.
+
+Wardrobe:
+premium architect style,
+dark navy blue tailored blazer,
+off-white blouse,
+minimalist jewelry,
+Black rectangular designer glasses.
+
+Appearance inspired by contemporary European architects and creative directors.
+Professional, charismatic, trustworthy, modern and ambitious.
+
+Luxury architecture studio aesthetic.
+Photorealistic face.
+Consistent facial features across all scenes.
+Consistent hairstyle across all scenes.
+Consistent glasses across all scenes.
+Consistent wardrobe style across all scenes.
+
+Architect staring at a blinking cursor on a blank page.
+
+Nothing happens.
+
+Suddenly the page fills rapidly with structured content.
+
+She raises an eyebrow.
+
+Humorous office style.
+
+Text overlay:
+
+"LA PAGE BLANCHE"
+
+Pause.
+
+"N'EST PLUS UN PROBLÈME"
+
+Pause.
+
+"AVEC L'IA"
+
+Final CTA:
+
+"APPRENDS À TRAVAILLER AVEC L'IA"
+"LIEN EN BIO"
+
+Brand identity:
+night blue #0A0F1F
+charcoal black #0E0E12
+off-white #F2F2F0
+soft copper #C78A4A
+electric blue #1E6BFF
+
+Typography style:
+Big Shoulders Display Black.
+
+French language only.
+Premium architecture education brand.
+
+---
+
+## 14. Relance client
+
+**Format** : Vertical Instagram Reel, 15s
+
+Same character across all campaign videos.
+French female architect, 34 years old.
+
+Short blonde hair in a modern textured pixie cut.
+Natural dark blonde roots.
+Sharp jawline.
+Elegant oval face.
+Fair skin with natural complexion.
+Light freckles.
+Bright-green eyes.
+Thin modern black architectural glasses.
+Confident and intelligent expression.
+
+Height around 168 cm.
+Slim athletic build.
+Professional posture.
+
+Wardrobe:
+premium architect style,
+dark navy blue tailored blazer,
+off-white blouse,
+minimalist jewelry,
+Black rectangular designer glasses.
+
+Appearance inspired by contemporary European architects and creative directors.
+Professional, charismatic, trustworthy, modern and ambitious.
+
+Luxury architecture studio aesthetic.
+Photorealistic face.
+Consistent facial features across all scenes.
+Consistent hairstyle across all scenes.
+Consistent glasses across all scenes.
+Consistent wardrobe style across all scenes.
+
+Architect hesitates before sending an email.
+
+She looks uncomfortable.
+
+The message transforms into a polished elegant letter.
+
+She confidently presses send.
+
+Text overlay:
+
+"TROUVER"
+
+Pause.
+
+"LES BONS MOTS"
+
+Pause.
+
+"EN QUELQUES SECONDES"
+
+Final CTA:
+
+"APPRENDS À TRAVAILLER AVEC L'IA"
+"LIEN EN BIO"
+
+Brand identity:
+night blue #0A0F1F
+charcoal black #0E0E12
+off-white #F2F2F0
+soft copper #C78A4A
+electric blue #1E6BFF
+
+Typography style:
+Big Shoulders Display Black.
+
+French language only.
+Premium architecture education brand.
+
+---
+
+## 15. PLU en clair
+
+**Format** : Vertical Instagram Reel, 15s
+
+Same character across all campaign videos.
+French female architect, 34 years old.
+
+Short blonde hair in a modern textured pixie cut.
+Natural dark blonde roots.
+Sharp jawline.
+Elegant oval face.
+Fair skin with natural complexion.
+Light freckles.
+Bright-green eyes.
+Thin modern black architectural glasses.
+Confident and intelligent expression.
+
+Height around 168 cm.
+Slim athletic build.
+Professional posture.
+
+Wardrobe:
+premium architect style,
+dark navy blue tailored blazer,
+off-white blouse,
+minimalist jewelry,
+Black rectangular designer glasses.
+
+Appearance inspired by contemporary European architects and creative directors.
+Professional, charismatic, trustworthy, modern and ambitious.
+
+Luxury architecture studio aesthetic.
+Photorealistic face.
+Consistent facial features across all scenes.
+Consistent hairstyle across all scenes.
+Consistent glasses across all scenes.
+Consistent wardrobe style across all scenes.
+
+Modern architecture office.
+
+The architect reads a thick regulatory document.
+She looks lost among dense paragraphs.
+
+A beam of electric blue light scans the pages.
+
+Key constraints extract themselves and form a clean structured list:
+height limits, setbacks, CES, buildable area.
+
+She finally sees clearly.
+
+Clean commercial style.
+
+Text overlay:
+
+"RÈGLEMENT DE ZONE"
+
+Pause.
+
+"EN CONTRAINTES CLAIRES"
+
+Pause.
+
+"EN QUELQUES SECONDES"
+
+Final CTA:
+
+"APPRENDS À TRAVAILLER AVEC L'IA"
+"LIEN EN BIO"
+
+Brand identity:
+night blue #0A0F1F
+charcoal black #0E0E12
+off-white #F2F2F0
+soft copper #C78A4A
+electric blue #1E6BFF
+
+Typography style:
+Big Shoulders Display Black.
+
+French language only.
+Premium architecture education brand.
+
+---
+
+## 16. Masse 3D SketchUp
 
 **Format** : Vertical Instagram Reel, 15s
 
@@ -124,32 +445,28 @@ Consistent wardrobe style across all scenes.
 Split screen.
 
 LEFT:
-Architect working late at night.
-Clock moves rapidly.
-Coffee cups accumulate.
-The sky outside becomes dark.
-Stacks of plans cover the desk.
+The architect types a detailed text prompt on her screen.
+Constraints, setbacks, heights, CES.
 
 RIGHT:
-Same architect.
-Bright modern office.
-Relaxed.
-Coffee in hand.
-Elegant architectural concept models appear around her automatically.
+In SketchUp, distinct 3D volumes appear in real time.
+Ground floor. First floor. Roof.
 
-Fast dynamic commercial pacing.
+She rotates around the model and checks the dimensions.
+
+Technical yet elegant style.
 
 Text overlay:
 
-"AVANT : 2 JOURS"
+"DU TEXTE"
 
 Pause.
 
-"APRÈS : 20 MIN"
+"À LA MASSE 3D"
 
 Pause.
 
-"POUR LA MÊME BASE VOLUMÉTRIQUE"
+"EN 20 MINUTES"
 
 Final CTA:
 
@@ -171,177 +488,7 @@ Premium architecture education brand.
 
 ---
 
-## 03. Client qui comprend enfin
-
-**Format** : Vertical Instagram Reel, 15s
-
-Same character across all campaign videos.
-French female architect, 34 years old.
-
-Short blonde hair in a modern textured pixie cut.
-Natural dark blonde roots.
-Sharp jawline.
-Elegant oval face.
-Fair skin with natural complexion.
-Light freckles.
-Bright-green eyes.
-Thin modern black architectural glasses.
-Confident and intelligent expression.
-
-Height around 168 cm.
-Slim athletic build.
-Professional posture.
-
-Wardrobe:
-premium architect style,
-dark navy blue tailored blazer,
-off-white blouse,
-minimalist jewelry,
-Black rectangular designer glasses.
-
-Appearance inspired by contemporary European architects and creative directors.
-Professional, charismatic, trustworthy, modern and ambitious.
-
-Luxury architecture studio aesthetic.
-Photorealistic face.
-Consistent facial features across all scenes.
-Consistent hairstyle across all scenes.
-Consistent glasses across all scenes.
-Consistent wardrobe style across all scenes.
-
-Elegant modern living room.
-
-Architect presents a highly technical architectural drawing to a client.
-
-The client stares at the document with a completely confused expression.
-
-Awkward silence.
-
-The architect snaps her fingers.
-
-The technical drawing transforms into a beautiful realistic architectural visualization floating above the table.
-
-The client's face instantly lights up.
-
-They smile and nod enthusiastically.
-
-Warm humorous atmosphere.
-
-Text overlay:
-
-"QUAND TON CLIENT"
-
-Pause.
-
-"COMPREND ENFIN TON PROJET"
-
-Pause.
-
-"GRÂCE À L'IA"
-
-Final CTA:
-
-"APPRENDS À TRAVAILLER AVEC L'IA"
-"LIEN EN BIO"
-
-Brand identity:
-night blue #0A0F1F
-charcoal black #0E0E12
-off-white #F2F2F0
-soft copper #C78A4A
-electric blue #1E6BFF
-
-Typography style:
-Big Shoulders Display Black.
-
-French language only.
-Premium architecture education brand.
-
----
-
-## 04. 15 pages → 1 page
-
-**Format** : Vertical Instagram Reel, 15s
-
-Same character across all campaign videos.
-French female architect, 34 years old.
-
-Short blonde hair in a modern textured pixie cut.
-Natural dark blonde roots.
-Sharp jawline.
-Elegant oval face.
-Fair skin with natural complexion.
-Light freckles.
-Bright-green eyes.
-Thin modern black architectural glasses.
-Confident and intelligent expression.
-
-Height around 168 cm.
-Slim athletic build.
-Professional posture.
-
-Wardrobe:
-premium architect style,
-dark navy blue tailored blazer,
-off-white blouse,
-minimalist jewelry,
-Black rectangular designer glasses.
-
-Appearance inspired by contemporary European architects and creative directors.
-Professional, charismatic, trustworthy, modern and ambitious.
-
-Luxury architecture studio aesthetic.
-Photorealistic face.
-Consistent facial features across all scenes.
-Consistent hairstyle across all scenes.
-Consistent glasses across all scenes.
-Consistent wardrobe style across all scenes.
-
-Client sitting at a table.
-
-A giant stack of technical documents drops in front of them.
-
-They look discouraged.
-
-The stack magically compresses into a single elegant page.
-
-The client immediately smiles.
-
-Warm commercial style.
-
-Text overlay:
-
-"15 PAGES"
-
-Pause.
-
-"DEVIENNENT 1 PAGE"
-
-Pause.
-
-"QUE LE CLIENT LIT VRAIMENT"
-
-Final CTA:
-
-"APPRENDS À TRAVAILLER AVEC L'IA"
-"LIEN EN BIO"
-
-Brand identity:
-night blue #0A0F1F
-charcoal black #0E0E12
-off-white #F2F2F0
-soft copper #C78A4A
-electric blue #1E6BFF
-
-Typography style:
-Big Shoulders Display Black.
-
-French language only.
-Premium architecture education brand.
-
----
-
-## 05. 10 directions en 10 min
+## 17. 10 ambiances concours
 
 **Format** : Vertical Instagram Reel, 15s
 
@@ -381,33 +528,28 @@ Consistent wardrobe style across all scenes.
 
 Modern architecture office.
 
-She sits in front of a completely blank sketchbook.
+The architect faces a competition brief on her desk.
 
-She looks uninspired.
+She types an ambiance prompt.
 
-Suddenly ten different architectural concepts appear floating around her like physical miniatures.
+Ten architectural images start floating around her like a carousel.
+Wood and heritage. Contemporary minimal. Urban infill. Mountain chalet.
 
-Wood architecture.
-Contemporary villa.
-Urban project.
-Minimalist house.
-Mountain chalet.
+She calmly selects three directions to refine.
 
-The architect smiles and observes all possibilities.
-
-Dynamic commercial advertising.
+Fast dynamic pacing.
 
 Text overlay:
 
-"10 DIRECTIONS"
+"10 AMBIANCES"
 
 Pause.
 
-"EN 10 MINUTES"
+"POUR UN CONCOURS"
 
 Pause.
 
-"ZÉRO MODÉLISATION PRÉALABLE"
+"EN 5 MINUTES"
 
 Final CTA:
 
@@ -429,7 +571,7 @@ Premium architecture education brand.
 
 ---
 
-## 06. La montagne de tâches
+## 18. Le temps retrouvé
 
 **Format** : Vertical Instagram Reel, 15s
 
@@ -467,107 +609,13 @@ Consistent hairstyle across all scenes.
 Consistent glasses across all scenes.
 Consistent wardrobe style across all scenes.
 
-Architect buried under an avalanche of paperwork.
+Clock spinning extremely fast.
 
-Emails.
-Plans.
-Reports.
-Administrative documents.
+Architect running everywhere.
 
-Only her head is visible.
+Suddenly time slows down.
 
-A blue energy wave sweeps through the office.
-
-Everything becomes organized.
-
-The architect breathes again.
-
-Humorous advertising style.
-
-Text overlay:
-
-"LE PROBLÈME"
-
-Pause.
-
-"N'EST PAS LE PROJET"
-
-Pause.
-
-"MAIS TOUT LE RESTE"
-
-Final CTA:
-
-"APPRENDS À TRAVAILLER AVEC L'IA"
-"LIEN EN BIO"
-
-Brand identity:
-night blue #0A0F1F
-charcoal black #0E0E12
-off-white #F2F2F0
-soft copper #C78A4A
-electric blue #1E6BFF
-
-Typography style:
-Big Shoulders Display Black.
-
-French language only.
-Premium architecture education brand.
-
----
-
-## 07. L'IA donne un coup d'accélérateur
-
-**Format** : Vertical Instagram Reel, 15s
-
-Same character across all campaign videos.
-French female architect, 34 years old.
-
-Short blonde hair in a modern textured pixie cut.
-Natural dark blonde roots.
-Sharp jawline.
-Elegant oval face.
-Fair skin with natural complexion.
-Light freckles.
-Bright-green eyes.
-Thin modern black architectural glasses.
-Confident and intelligent expression.
-
-Height around 168 cm.
-Slim athletic build.
-Professional posture.
-
-Wardrobe:
-premium architect style,
-dark navy blue tailored blazer,
-off-white blouse,
-minimalist jewelry,
-Black rectangular designer glasses.
-
-Appearance inspired by contemporary European architects and creative directors.
-Professional, charismatic, trustworthy, modern and ambitious.
-
-Luxury architecture studio aesthetic.
-Photorealistic face.
-Consistent facial features across all scenes.
-Consistent hairstyle across all scenes.
-Consistent glasses across all scenes.
-Consistent wardrobe style across all scenes.
-
-Architect standing in a dark office.
-
-She puts on futuristic glasses.
-
-The room transforms.
-
-Architectural models.
-Plans.
-Data.
-Concepts.
-
-Everything appears around her.
-
-Heroic atmosphere.
+The architect sits calmly and starts designing.
 
 Text overlay:
 
@@ -575,15 +623,11 @@ Text overlay:
 
 Pause.
 
-"NE REMPLACE PAS"
+"NE CRÉE PAS DU TEMPS"
 
 Pause.
 
-"LES ARCHITECTES"
-
-Pause.
-
-"ELLE LEUR DONNE UN VRAI COUP D'ACCÉLÉRATEUR"
+"ELLE T'EN REND"
 
 Final CTA:
 
@@ -605,7 +649,7 @@ Premium architecture education brand.
 
 ---
 
-## 08. PDF → tableau structuré
+## 19. Devis estimatif
 
 **Format** : Vertical Instagram Reel, 15s
 
@@ -643,193 +687,111 @@ Consistent hairstyle across all scenes.
 Consistent glasses across all scenes.
 Consistent wardrobe style across all scenes.
 
-Architect carrying a huge pile of messy documents.
+The architect receives a quantitative project description.
 
-The pile explodes into hundreds of papers.
+She pastes it into a prompt.
 
-Suddenly everything reorganizes itself into a clean glowing board.
+A structured table appears line by line.
+Lots : gros œuvre, second œuvre, electricité, chauffage.
+Cost per m². Hypotheses explicit. Reference values.
 
-She looks relieved.
-
-Commercial clean style.
-
-Text overlay:
-
-"MOINS DE RECOPIAGE"
-
-Pause.
-
-"PLUS DE TEMPS"
-
-Pause.
-
-"POUR CONCEVOIR"
-
-Final CTA:
-
-"APPRENDS À TRAVAILLER AVEC L'IA"
-"LIEN EN BIO"
-
-Brand identity:
-night blue #0A0F1F
-charcoal black #0E0E12
-off-white #F2F2F0
-soft copper #C78A4A
-electric blue #1E6BFF
-
-Typography style:
-Big Shoulders Display Black.
-
-French language only.
-Premium architecture education brand.
-
----
-
-## 09. 3 devis comparés
-
-**Format** : Vertical Instagram Reel, 15s
-
-Same character across all campaign videos.
-French female architect, 34 years old.
-
-Short blonde hair in a modern textured pixie cut.
-Natural dark blonde roots.
-Sharp jawline.
-Elegant oval face.
-Fair skin with natural complexion.
-Light freckles.
-Bright-green eyes.
-Thin modern black architectural glasses.
-Confident and intelligent expression.
-
-Height around 168 cm.
-Slim athletic build.
-Professional posture.
-
-Wardrobe:
-premium architect style,
-dark navy blue tailored blazer,
-off-white blouse,
-minimalist jewelry,
-Black rectangular designer glasses.
-
-Appearance inspired by contemporary European architects and creative directors.
-Professional, charismatic, trustworthy, modern and ambitious.
-
-Luxury architecture studio aesthetic.
-Photorealistic face.
-Consistent facial features across all scenes.
-Consistent hairstyle across all scenes.
-Consistent glasses across all scenes.
-Consistent wardrobe style across all scenes.
-
-Three contractors place three giant stacks of documents on a table.
-
-The architect looks confused.
-
-The stacks transform into three clean glowing columns.
-
-Differences light up automatically.
-
-She smiles.
-
-Text overlay:
-
-"COMPARER"
-
-Pause.
-
-"3 DEVIS"
-
-Pause.
-
-"EN QUELQUES MINUTES"
-
-Final CTA:
-
-"APPRENDS À TRAVAILLER AVEC L'IA"
-"LIEN EN BIO"
-
-Brand identity:
-night blue #0A0F1F
-charcoal black #0E0E12
-off-white #F2F2F0
-soft copper #C78A4A
-electric blue #1E6BFF
-
-Typography style:
-Big Shoulders Display Black.
-
-French language only.
-Premium architecture education brand.
-
----
-
-## 10. Courrier administratif express
-
-**Format** : Vertical Instagram Reel, 15s
-
-Same character across all campaign videos.
-French female architect, 34 years old.
-
-Short blonde hair in a modern textured pixie cut.
-Natural dark blonde roots.
-Sharp jawline.
-Elegant oval face.
-Fair skin with natural complexion.
-Light freckles.
-Bright-green eyes.
-Thin modern black architectural glasses.
-Confident and intelligent expression.
-
-Height around 168 cm.
-Slim athletic build.
-Professional posture.
-
-Wardrobe:
-premium architect style,
-dark navy blue tailored blazer,
-off-white blouse,
-minimalist jewelry,
-Black rectangular designer glasses.
-
-Appearance inspired by contemporary European architects and creative directors.
-Professional, charismatic, trustworthy, modern and ambitious.
-
-Luxury architecture studio aesthetic.
-Photorealistic face.
-Consistent facial features across all scenes.
-Consistent hairstyle across all scenes.
-Consistent glasses across all scenes.
-Consistent wardrobe style across all scenes.
-
-Modern architecture office.
-
-The architect stares at a blank email window.
-
-Cursor blinking.
-
-Nothing happens.
-
-She types a short prompt.
-
-The page fills rapidly with a structured, professional letter.
-
-She reads, adjusts a line, and smiles.
+She checks the figures and nods.
 
 Clean commercial style.
 
 Text overlay:
 
-"UN COURRIER ADMINISTRATIF"
+"UNE PREMIÈRE ESTIMATION"
 
 Pause.
 
-"BIEN RÉDIGÉ"
+"STRUCTURÉE PAR LOT"
 
 Pause.
 
-"EN QUELQUES SECONDES"
+"EN 10 MINUTES"
+
+Final CTA:
+
+"APPRENDS À TRAVAILLER AVEC L'IA"
+"LIEN EN BIO"
+
+Brand identity:
+night blue #0A0F1F
+charcoal black #0E0E12
+off-white #F2F2F0
+soft copper #C78A4A
+electric blue #1E6BFF
+
+Typography style:
+Big Shoulders Display Black.
+
+French language only.
+Premium architecture education brand.
+
+---
+
+## 20. 3 options d'aménagement
+
+**Format** : Vertical Instagram Reel, 15s
+
+Same character across all campaign videos.
+French female architect, 34 years old.
+
+Short blonde hair in a modern textured pixie cut.
+Natural dark blonde roots.
+Sharp jawline.
+Elegant oval face.
+Fair skin with natural complexion.
+Light freckles.
+Bright-green eyes.
+Thin modern black architectural glasses.
+Confident and intelligent expression.
+
+Height around 168 cm.
+Slim athletic build.
+Professional posture.
+
+Wardrobe:
+premium architect style,
+dark navy blue tailored blazer,
+off-white blouse,
+minimalist jewelry,
+Black rectangular designer glasses.
+
+Appearance inspired by contemporary European architects and creative directors.
+Professional, charismatic, trustworthy, modern and ambitious.
+
+Luxury architecture studio aesthetic.
+Photorealistic face.
+Consistent facial features across all scenes.
+Consistent hairstyle across all scenes.
+Consistent glasses across all scenes.
+Consistent wardrobe style across all scenes.
+
+The architect stands in front of a floor plan.
+
+Three distinct 3D interior layouts float above the table.
+
+Option A : minimalist, clean lines, raw concrete.
+Option B : family-friendly, warm wood, optimized storage.
+Option C : coworking, flexible partitions, shared spaces.
+
+A client observes and points at their preferred option.
+
+Dynamic commercial style.
+
+Text overlay:
+
+"3 OPTIONS"
+
+Pause.
+
+"POUR UN MÊME ESPACE"
+
+Pause.
+
+"EN 1 HEURE"
 
 Final CTA:
 
